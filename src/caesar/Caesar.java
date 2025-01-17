@@ -16,9 +16,7 @@ public class Caesar {
 		if (auswahl == 2) {
 			Entschluesselung.caesarentschluesselung();
 		}
-		else {
-			System.out.println("Treffen Sie eine korrekte Auswahl");
-		}
+		
 		eingabe.close();
 		
 
